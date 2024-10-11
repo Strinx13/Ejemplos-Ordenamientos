@@ -62,7 +62,7 @@ class Program
             Console.Clear();
         }
     }
-
+    //Mostrar Menu
     static void MostrarMenu(List<Producto> productos)
     {
         Console.WriteLine("Lista de productos disponibles (ordenados por precio):");
